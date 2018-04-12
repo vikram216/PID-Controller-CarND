@@ -125,6 +125,9 @@ I started to increase the differential parameter until the transient oscillation
 As described above the I-parameter compensates the bias in the CTE, e.g. due to mechanical issues. Since the car in the simulator does not have a certain mechanical bias, therefore I kept it very small 0.0001 at the beginning.
 
 The following animation perfectly describes the approach for manually tuning the PID parameters: 
+![alt Text](Imgs/P_I_D_effect.gif)
+
+source: https://www.wikiwand.com/en/PID_controller
 
 
 ## Editor Settings

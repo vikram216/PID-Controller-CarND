@@ -1,5 +1,5 @@
 # Overview
----
+
 The main goal of the project is to implement PID controller in C++ to steer the self driving car around the track in a [simulator](https://github.com/udacity/self-driving-car-sim/releases). A PID (Proportional, Integral, Derivative) controller is a control loop feedback controller which is widely used in different control systems.These three controllers (P,I,D) are combined in such a way that it produces a control signal. This is how the vehicle uses steering, throttle, and brake to move through the world, executing a trajectory created by the path planning block.
 
 ## Dependencies
